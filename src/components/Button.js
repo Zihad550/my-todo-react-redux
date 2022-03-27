@@ -9,6 +9,6 @@ const Button = styled.button`
     outline: 0; 
     font-size: 1rem;
     cursor: pointer;
-`
+`;
 
 export default Button;

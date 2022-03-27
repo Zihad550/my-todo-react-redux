@@ -7,6 +7,6 @@ const Input = styled.input`
         border:0;
 
 
-`
+`;
 
-export default Input
+export default Input;

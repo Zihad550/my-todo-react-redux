@@ -5,7 +5,7 @@ const CreateTodoContainer = styled.div`
     justify-content: center ;
     align-items: center;
     justify-content: center;
-    height: 30vh
+    height: 20vh
     
 `;
 
